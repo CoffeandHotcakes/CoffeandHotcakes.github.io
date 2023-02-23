@@ -251,7 +251,6 @@ section#Proyectos h2 {
 
 .Detalles-de-proyectos a {
 	display:flex;
-	justify-content: center;
 	font-family: sans-serif;
 	font-size: 20px;
 	margin: 20px;
