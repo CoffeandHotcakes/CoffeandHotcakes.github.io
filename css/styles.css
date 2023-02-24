@@ -247,6 +247,7 @@ section#Proyectos h2 {
  justify-content: center;
  padding-left: 25%;
  padding-right: 25%;
+ text-decoration: none;	
 }
 
 .Detalles-de-proyectos a {
@@ -257,6 +258,7 @@ section#Proyectos h2 {
 	text-align: center;
 	padding: auto;
 	color: white;
+	text-decoration:none;
 }
 
 
